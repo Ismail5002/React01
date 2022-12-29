@@ -1,0 +1,29 @@
+.container {
+    margin: 0 auto;
+}
+
+.button {
+    margin: 0 auto;
+    background-color: white;
+
+}
+
+.item>img {
+    width: 50px;
+}
+
+
+.avatar img {
+    width: 120px;
+    padding: 10px
+}
+
+
+.myName {
+    padding: 10px
+}
+
+
+.aboutAllMe {
+    font-family: 'Libre Baskerville', serif;
+}

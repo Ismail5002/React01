@@ -1,0 +1,29 @@
+
+// ПОДСКАЗКА
+
+
+{/* <Messages mes={messagseData[0].message} id={messagseData[0].id} />
+                <Messages mes={messagseData[1].message} id={messagseData[1].id} />
+                <Messages mes={messagseData[2].message} id={messagseData[2].id} />
+                <Messages mes={messagseData[3].message} id={messagseData[3].id} />
+                <Messages mes={messagseData[4].message} id={messagseData[4].id} /> */}
+
+
+{/* <div><DialogsItem name={DialogsData[0].name} id={DialogsData[0].id} /></div>
+                <div><DialogsItem name={DialogsData[1].name} id={DialogsData[1].id} /></div>
+                <div><DialogsItem name={DialogsData[2].name} id={DialogsData[2].id} /></div>
+                <div><DialogsItem name={DialogsData[3].name} id={DialogsData[3].id} /></div>
+                <div><DialogsItem name={DialogsData[4].name} id={DialogsData[4].id} /></div> */}
+
+                // [<DialogsItem name={DialogsData[0].name} id={DialogsData[0].id} />, <DialogsItem name={DialogsData[1].name} id={DialogsData[1].id} />, <DialogsItem name={DialogsData[2].name} id={DialogsData[2].id} />, <DialogsItem name={DialogsData[3].name} id={DialogsData[3].id} />, <DialogsItem name={DialogsData[4].name} id={DialogsData[4].id} />
+// ];
+
+// let messagesData
+// [<Messages mes={messagseData[0].message} id={messagseData[0].id} />,
+// <Messages mes={messagseData[1].message} id={messagseData[1].id} />,
+// <Messages mes={messagseData[2].message} id={messagseData[2].id} />,
+// <Messages mes={messagseData[3].message} id={messagseData[3].id} />,
+// <Messages mes={messagseData[4].message} id={messagseData[4].id} />]
+
+    // let text = document.getElementById('textArea').value
+    // alert(text)

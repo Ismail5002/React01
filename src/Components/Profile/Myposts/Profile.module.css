@@ -1,0 +1,14 @@
+    .item {
+        color: red;
+    }
+    
+.aboutMe> * {
+ margin:0 auto ;
+ list-style-type: none;
+
+} 
+
+.avatar {
+    background-color: white;
+}
+
